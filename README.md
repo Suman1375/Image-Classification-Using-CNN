@@ -2,24 +2,24 @@
 We used the popular 'Kaggle Dogs vs. Cats' dataset containing 10,000 cat and dog images (where 5000 for dog and 5000 for cat) wheras 8,000 for Training Purpose and 2000 for testing Purpose .
 
 **Custom Model 1**
-            Tailored parameters for unique insights
-            Varied input sizes for adaptability
-            Fine-tuned to optimize performance
+            Tailored parameters for unique insights,
+            Varied input sizes for adaptability,
+            Fine-tuned to optimize performance.
             
 **Custom Model 2**
-          Experimentation with padding and stride
-          Unleashing the power of convolutional layers
-          Flexibility in architecture for robust predictions
+          Experimentation with padding and stride,
+          Unleashing the power of convolutional layers,
+          Flexibility in architecture for robust predictions.
           
 **Custom Model 3**
-          Parameter modifications for enhanced feature extraction
-          Strategic changes to address specific challenges
-          Pushing the boundaries of traditional architectures
+          Parameter modifications for enhanced feature extraction,
+          Strategic changes to address specific challenges,
+          Pushing the boundaries of traditional architectures.
           
 **Custom Model 4**
-            Innovation in input size and stride
-            Leveraging the diversity of the Kaggle dataset
-            Fine-tuning for superior cat vs. dog discrimination
+            Innovation in input size and stride,
+            Leveraging the diversity of the Kaggle dataset,
+            Fine-tuning for superior cat vs. dog discrimination.
             
 **Confusion metrics:** Clearly define, accuracy|  precision | recall |  F1-score | Selectivity | Negative Predictive Value | Miss Rate | Fall Out | False Discovery Rate | False Omission Rate | Positive Likelihood Ratio | Negative Likelihood Ratio | Balance Accuracy | Threat Score |
 
